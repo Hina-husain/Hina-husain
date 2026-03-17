@@ -1,7 +1,7 @@
 ## 👋 My Intro:  
 
 
-I’m HinaFatima, a motivated first-year student pursuing a Bachelor’s degree in Software Engineering. I’m passionate about coding, with a solid grounding in web development and Python, and I aspire to design impactful and innovative software solutions.  
+Hina Fatima is a Web Developer and Co-Founder of Frionexar Software Agency, specializing in web development, digital marketing, and business growth solutions. She builds responsive websites, scalable applications, and helps brands establish a strong online presence. 
 
 ## 💻 **My Skills and Interests:**  
 
