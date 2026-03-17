@@ -1,6 +1,6 @@
 ## 👋 My Intro  
 
-Hi, I am **Hina Fatima**, a passionate **Web Developer and Co-Founder of Frionexar Software Agency**.  
+Hi, Hina Fatima | Co-Founder @ Frionexar Software Agency 
 
 Hina Fatima specializes in **web development, digital marketing, and business growth solutions**, helping brands build a strong online presence. She focuses on creating **responsive websites, scalable applications, and user-friendly digital experiences** that drive real results.
 
